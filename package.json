@@ -1,0 +1,23 @@
+{
+  "name": "email_templates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gc.spread.sheets.io.16.0.1.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx browser-sync -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitraecp/email_templates.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitraecp/email_templates/issues"
+  },
+  "homepage": "https://github.com/mitraecp/email_templates#readme",
+  "dependencies": {
+    "browser-sync": "^2.29.1"
+  }
+}
